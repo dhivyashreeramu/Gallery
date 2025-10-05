@@ -211,6 +211,10 @@ gallery.html
 **working:**
 ![output](<Screenshot (51).png>)
 
+**searching functionality**
+<img width="1920" height="1080" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/6b2164c2-3135-4430-9326-2c34daf3f288" />
+
+
 
 # RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
